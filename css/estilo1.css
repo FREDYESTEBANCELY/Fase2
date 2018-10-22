@@ -21,7 +21,7 @@ body{width: 1600px;height: 1200px;margin: auto;}
 header{width: 1600px;height: 200px;}
 nav{width: 1600px;height: 100px;margin: auto;float: left;}
 article{width: 1600px;height: 500px;float: left;}
-aside{width: 1600px;height: 200px;float:left;}
+aside{width: 1600px;height: 500px;float:left;}
 footer{width: 1600px;height: 200px;float: left;background-color: #0E0E0E;}
 section#logo{width: 200px;height:200px;float: left;}
 section#boton1{width: 500px;height:40px;float: left;background-color: #9B59B6;}
@@ -97,7 +97,10 @@ footer{
 
 
 }
+.aside{
+margin-top: 20px;
 
+}
 .container-footer-all{
 	width: 100%;
 	max-width: 1600px;
