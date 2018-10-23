@@ -17,7 +17,7 @@
 
 <section id="logo">
 <picture>
-	<img src="img/logo.png"  >
+	<a href="index.html"><img src="img/logo.png"  ></a>
 </section>
 </picture>
 
@@ -44,7 +44,7 @@
             <li><a href="estandares.html">estandares y normas de la seguridad de redes</a></li> 
              </section>  
              <section id="boton3">
-            <li><a href="#">medidas para el mantenimiento de la seguridad informatica</a></li>
+            <li><a href="mantenimiento.html">medidas para el mantenimiento de la seguridad informatica</a></li>
     </section> 
         </ul>    
        </div>    
@@ -92,11 +92,11 @@
 <div class="colum2">
     <h1>Redes sociales </h1>
 <div class="row">
-    <img src="img/Twitter.png">
+    <a href="https://twitter.com/search?q=unad&src=typd"><img src="img/Twitter.png"></a>
 <label>siguenos en twiter</label>
 </div>
 <div class="row">
-    <img src="img/facebook.jpg">
+    <a href="https://www.facebook.com/Unad-Zona-Boyacá-2003357469918832/"><img src="img/facebook.jpg"></a>
 <label>siguenos en facebook</label>
 </div>
 <div class="row">
