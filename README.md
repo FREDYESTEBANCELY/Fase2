@@ -37,11 +37,11 @@
         <div id="menu"> 
         <ul>
         <section id="boton1">
-            <li><a href="#">conceptos basicos seguridad informatica</a></li> 
+            <li><a href="personal.html">conceptos basicos seguridad informatica</a></li> 
              </section> 
              <section id="boton2">
 
-            <li><a href="#">estandares y normas de la seguridad de redes</a></li> 
+            <li><a href="estandares.html">estandares y normas de la seguridad de redes</a></li> 
              </section>  
              <section id="boton3">
             <li><a href="#">medidas para el mantenimiento de la seguridad informatica</a></li>
@@ -100,7 +100,7 @@
 <label>siguenos en facebook</label>
 </div>
 <div class="row">
-    <img src="img/persona.png">
+    <a href="autor.html"><img src="img/persona.png"></a>
 <label>Datos personales creador pagina web</label>
 </div>
 </div>
